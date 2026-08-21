@@ -1,0 +1,43 @@
+{
+    "Starter": {
+        "Cold": [
+            "Courgette and lemon gazpacho",
+            "Seasonal Antipasti",
+            "Marinated olives, three ways",
+            ""
+        ],
+        "Warm": [
+            "Battered Banana flower and tartar sauce",
+            ""
+        ],
+        "Bread": [
+            "Sourdough and warm butter",
+            "Pain trio",
+            "Homemade fiscelle with whipped sea salt and seaweed butter"
+        ]
+    },
+    "Main": {
+        "Meat": [
+            "Venison steak with red wine and rosemary jús with double cream, homemade butter mash, heritage carrots, and grilled garden peas in the pod",
+            ""
+        ],
+        "Fish": [
+            "Herb encrusted lemon sole, new potatoes with hazelnut butter, "
+        ],
+        "Veg": [
+            ""
+        ]
+    },
+    "Sides": [
+        "Fondant potatoes",
+        "Lacto-fermented skin on chips",
+        "Mashed potatoes",
+        "Grilled Broccolini",
+        "Smoked Leek",
+        "Seasonal salad"
+    ],
+    "Dessert": [
+        "Raspberry ripple and butterscotch thins ice-cream sandwich",
+        ""
+    ]
+}
